@@ -1,6 +1,6 @@
 ## 🛠️ Steps to Create a New Project Using TS-Template
 
-1. Clone the project 
+1. Clone the project -- copt paste all lines all-together
 
 ```
 git clone https://github.com/astroophilliiiiiiiii/Typescript-Template.git temp
